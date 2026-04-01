@@ -1,8 +1,10 @@
-# Tugas PBO - Object Oriented Programming
+# Tugas PBO 
 
-Proyek ini berisi jawaban dari 5 soal Tugas Pemrograman Berorientasi Objek (PBO).
+Nama : Gregorian Goclio Sinaga
+NIM  : 241401087
 
-## Struktur Proyek
+
+## Struktur 
 
 ```
 src/
