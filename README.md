@@ -31,42 +31,6 @@ src/
     └── MainApp.java                # Soal 5 - Runner
 ```
 
-## Konsep OOP yang Diterapkan
-
-| Soal | Konsep |
-|------|--------|
-| 1 | Encapsulation, Constructor Overloading, Array of Objects |
-| 2 | Inheritance, Method Overriding, Polymorphism |
-| 3 | Abstract Class & Abstract Method |
-| 4 | Multiple Interface Implementation |
-| 5 | Inner Class |
-
-## Cara Menjalankan
-
-### Compile semua file:
-```bash
-mkdir out
-find src -name "*.java" | xargs javac -d out
-```
-
-### Jalankan masing-masing soal:
-```bash
-# Soal 1 - Mahasiswa
-java -cp out edu.university.main.MainApp
-
-# Soal 2 - Pegawai
-java -cp out edu.university.staff.MainApp
-
-# Soal 3 - Kendaraan
-java -cp out edu.transport.MainApp
-
-# Soal 4 - SmartWatch
-java -cp out edu.smartdevice.MainApp
-
-# Soal 5 - Order
-java -cp out edu.ecommerce.MainApp
-```
-
 ## Output Program
 
 ### Soal 1 - Data Mahasiswa
